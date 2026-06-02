@@ -1,16 +1,16 @@
-# renta_fest
+# RentaFest 🎪
 
-Aplicacion para renta de articulos para eventos
+Aplicación profesional para la administración de negocios de renta de artículos para eventos.
 
-## Getting Started
+## Características principales
+- **Gestión de Inventario:** Control detallado de artículos y categorías.
+- **Control de Pedidos:** Registro y seguimiento de eventos y rentas.
+- **Finanzas:** Reportes de ingresos, utilidad en tiempo real y control de gastos (Planes Pro/Premium).
+- **Calendario:** Vista integrada de disponibilidad y fechas de eventos.
+- **Multiplataforma:** Disponible para Android e iOS.
 
-This project is a starting point for a Flutter application.
+## Estado del Proyecto
+Actualmente trabajando en la rama `JM` para nuevas funcionalidades y ajustes de la interfaz de usuario.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+*Desarrollado con Flutter*
